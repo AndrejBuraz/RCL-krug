@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\RLCMreza\RLCMreza\bin\Debug\RLCMreza.exe.config
+C:\Users\HP\source\repos\RLCMreza\RLCMreza\bin\Debug\RLCMreza.exe
+C:\Users\HP\source\repos\RLCMreza\RLCMreza\bin\Debug\RLCMreza.pdb
+C:\Users\HP\source\repos\RLCMreza\RLCMreza\obj\Debug\RLCMreza.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\RLCMreza\RLCMreza\obj\Debug\RLCMreza.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\RLCMreza\RLCMreza\obj\Debug\RLCMreza.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\RLCMreza\RLCMreza\obj\Debug\RLCMreza.exe
+C:\Users\HP\source\repos\RLCMreza\RLCMreza\obj\Debug\RLCMreza.pdb
